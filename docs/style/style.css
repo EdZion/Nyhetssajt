@@ -1,0 +1,109 @@
+html {
+    background-color: rgb(250, 250, 250);
+    font-family: 'Raleway', sans-serif;
+    min-height: 100%;
+}
+
+body {
+    margin: 12px auto;
+    background: #fff;
+    width: 70%;
+}
+
+ main {
+    min-height: 600px;
+    text-align: center;
+ }
+
+section {
+    border-top: 2px solid gray;
+}
+
+article {
+    padding: 2%;
+    text-align: center;
+    width: 75%;
+    border: 4px solid darkgreen;
+    margin: auto;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    font-size: 1vw;
+}
+    
+a{
+    color:black;
+}
+a:hover{
+    opacity: 0.8;
+    filter: alpha(opacity=80); 
+}
+.Artikelburgare{
+    font-size: 1vw;
+    text-align: center;
+}
+p{
+    font-size: 1.5vw;
+}
+nav {
+    padding: 10px;
+    border: 2px solid darkgreen;
+    color:black;
+    text-align: center;
+    font-size: 1.8vw;
+}
+
+header {
+    padding: 8px;
+}
+
+footer {
+    border-top: solid 2px darkgreen;
+    padding: 10px;
+    text-align: center;
+}
+.Citron{
+ width: 60%;
+ height: 60%;  
+
+}
+h1{
+    color: darkgreen;
+    text-align: center;
+    font-size: 3vw;
+}
+h2{
+    text-align: center;
+    font-size: 2vw;
+}
+.burgare{
+    width: 85%;
+    height: 100%;
+    
+}
+li{
+    font-size: 1.4vw;
+    text-align: left;
+}
+.textburgare{
+    font-size: 1.3vw;
+}
+.Logga{
+    height: 50%;
+    width: 50%;
+}
+i{
+    text-align: left;
+}
+.namn{
+    background-color: darkgreen;
+    overflow: hidden;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-size: 2vw;
+}
+.Beck{
+    height: 40%;
+    width: 40%;
+}
